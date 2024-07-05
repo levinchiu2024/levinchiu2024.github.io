@@ -12,6 +12,9 @@
 }
 ._图片 {
 }
+.primary_button {
+  color:#FFFFFF;
+}
 ._一级标题 {
   font-family:"Arial Normal", "Arial", sans-serif;
   font-weight:bold;
@@ -115,7 +118,7 @@
 .checkbox {
   text-align:left;
 }
-.primary_button {
+.primary_button1 {
   color:#FFFFFF;
 }
 textarea, select, input, button { outline: none; }
